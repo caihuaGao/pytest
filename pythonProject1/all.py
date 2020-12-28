@@ -4,7 +4,6 @@
 # @File: all.py
 # @Software: PyCharm
 import os
-
 import pytest
 
 if __name__ == '__main__':
