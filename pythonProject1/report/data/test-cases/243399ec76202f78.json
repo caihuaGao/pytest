@@ -1,0 +1,161 @@
+{
+  "uid" : "243399ec76202f78",
+  "name" : "test_02_user[ch]",
+  "fullName" : "testcase.test_usermanager.TestUser1#test_02_user",
+  "historyId" : "ad68bd1ef823da32187678422d80692b",
+  "time" : {
+    "start" : 1609141378851,
+    "stop" : 1609141378851,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "ch_fixture",
+    "time" : {
+      "start" : 1609141378850,
+      "stop" : 1609141378850,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "ch_fixture::0",
+    "time" : {
+      "start" : 1609141378851,
+      "stop" : 1609141378851,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "testcase"
+  }, {
+    "name" : "suite",
+    "value" : "test_usermanager"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestUser1"
+  }, {
+    "name" : "host",
+    "value" : "lxdeMacBook-Pro-2.local"
+  }, {
+    "name" : "thread",
+    "value" : "12034-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcase.test_usermanager"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "ch_fixture",
+    "value" : "'高才华'"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "3e491273cfcb59f5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1609141053534,
+        "stop" : 1609141053534,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "aa85a675e76e68",
+      "status" : "passed",
+      "time" : {
+        "start" : 1609141030539,
+        "stop" : 1609141030539,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "677b2576af1e5462",
+      "status" : "passed",
+      "time" : {
+        "start" : 1609140882651,
+        "stop" : 1609140882651,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "95c2fa8dada5f35c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1609140736052,
+        "stop" : 1609140736052,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "fab627046b8e3596",
+      "status" : "passed",
+      "time" : {
+        "start" : 1609140677279,
+        "stop" : 1609140677279,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "c667b1da6cc30cbd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1609140643196,
+        "stop" : 1609140643196,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "901cfbfc7fe2e5b3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1609140590808,
+        "stop" : 1609140590808,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "34bf0588f0aeb15a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1609140528595,
+        "stop" : 1609140528595,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "a68c382c7785a031",
+      "status" : "passed",
+      "time" : {
+        "start" : 1609140442266,
+        "stop" : 1609140442266,
+        "duration" : 0
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "243399ec76202f78.json",
+  "parameterValues" : [ "'高才华'" ]
+}

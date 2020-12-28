@@ -1,0 +1,60 @@
+{
+  "uid" : "256bb9cd71dbefcc",
+  "name" : "test_01_baili",
+  "fullName" : "testcase.test_login.TestLogin#test_01_baili",
+  "historyId" : "a19d57767fff1e850b73bab8aff58cbf",
+  "time" : {
+    "start" : 1609141583006,
+    "stop" : 1609141583006,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "usermanager"
+  }, {
+    "name" : "tag",
+    "value" : "smoke"
+  }, {
+    "name" : "parentSuite",
+    "value" : "testcase"
+  }, {
+    "name" : "suite",
+    "value" : "test_login"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestLogin"
+  }, {
+    "name" : "host",
+    "value" : "lxdeMacBook-Pro-2.local"
+  }, {
+    "name" : "thread",
+    "value" : "12192-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcase.test_login"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ "usermanager", "smoke" ]
+  },
+  "source" : "256bb9cd71dbefcc.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,54 @@
+{
+  "uid" : "431d644dd9c00f52",
+  "name" : "test_06_user",
+  "fullName" : "testcase.test_usermanager.TestUser2#test_06_user",
+  "historyId" : "4ef6865982fdd1f06a0f7abb5fe5b989",
+  "time" : {
+    "start" : 1609139080485,
+    "stop" : 1609139080485,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "testcase"
+  }, {
+    "name" : "suite",
+    "value" : "test_usermanager"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestUser2"
+  }, {
+    "name" : "host",
+    "value" : "lxdeMacBook-Pro-2.local"
+  }, {
+    "name" : "thread",
+    "value" : "10300-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcase.test_usermanager"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "431d644dd9c00f52.json",
+  "parameterValues" : [ ]
+}

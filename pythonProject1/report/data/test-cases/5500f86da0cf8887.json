@@ -1,0 +1,161 @@
+{
+  "uid" : "5500f86da0cf8887",
+  "name" : "test_02_user[ln]",
+  "fullName" : "testcase.test_usermanager.TestUser1#test_02_user",
+  "historyId" : "c6a85e8b37d1b6391dfe5723808546f8",
+  "time" : {
+    "start" : 1609141378854,
+    "stop" : 1609141378854,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "ch_fixture",
+    "time" : {
+      "start" : 1609141378853,
+      "stop" : 1609141378853,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "ch_fixture::0",
+    "time" : {
+      "start" : 1609141378854,
+      "stop" : 1609141378854,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "testcase"
+  }, {
+    "name" : "suite",
+    "value" : "test_usermanager"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestUser1"
+  }, {
+    "name" : "host",
+    "value" : "lxdeMacBook-Pro-2.local"
+  }, {
+    "name" : "thread",
+    "value" : "12034-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcase.test_usermanager"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "ch_fixture",
+    "value" : "'李娜'"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "7a7a4044905e67b7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1609141053538,
+        "stop" : 1609141053538,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "7a3cddd1a781c033",
+      "status" : "passed",
+      "time" : {
+        "start" : 1609141030543,
+        "stop" : 1609141030543,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "d538ec4b1dcc7528",
+      "status" : "passed",
+      "time" : {
+        "start" : 1609140882655,
+        "stop" : 1609140882655,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "c02568a1483f084",
+      "status" : "passed",
+      "time" : {
+        "start" : 1609140736055,
+        "stop" : 1609140736055,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "99d7d78134829140",
+      "status" : "passed",
+      "time" : {
+        "start" : 1609140677282,
+        "stop" : 1609140677282,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "becbc291430198b9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1609140643199,
+        "stop" : 1609140643199,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "20ecdb0854c551fd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1609140590811,
+        "stop" : 1609140590811,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "87ad835c840ba8bc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1609140528599,
+        "stop" : 1609140528599,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "fea906b195f0e4b8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1609140442270,
+        "stop" : 1609140442270,
+        "duration" : 0
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5500f86da0cf8887.json",
+  "parameterValues" : [ "'李娜'" ]
+}

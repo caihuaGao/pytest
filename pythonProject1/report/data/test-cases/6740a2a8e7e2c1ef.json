@@ -1,0 +1,59 @@
+{
+  "uid" : "6740a2a8e7e2c1ef",
+  "name" : "test_02_user[高才华]",
+  "fullName" : "testcase.test_usermanager.TestUser1#test_02_user",
+  "historyId" : "86373855000760b1f7985b4fa1ef0bb9",
+  "time" : {
+    "start" : 1609140311643,
+    "stop" : 1609140311643,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "statusMessage" : "_pytest.fixtures.FixtureLookupError: ('requst', <SubRequest 'ch_fixture' for <Function test_02_user[\\u9ad8\\u624d\\u534e]>>)",
+  "statusTrace" : "file /Users/lx/Desktop/PythonP/pythonProject1/testcase/test_usermanager.py, line 25\n      def test_02_user(self, ch_fixture):\nfile /Users/lx/Desktop/PythonP/pythonProject1/testcase/test_usermanager.py, line 9\n  @pytest.fixture(scope='function',params=[\"高才华\",\"李娜\"]) #,params=\"\",autouse=\"\",ids=\"\",name=\"\"\n  def ch_fixture(requst):\nE       fixture 'requst' not found\n>       available fixtures: cache, capfd, capfdbinary, caplog, capsys, capsysbinary, ch_fixture, doctest_namespace, extra, include_metadata_in_junit_xml, metadata, monkeypatch, pytestconfig, record_property, record_testsuite_property, record_xml_attribute, recwarn, testrun_uid, tmp_path, tmp_path_factory, tmpdir, tmpdir_factory, worker_id\n>       use 'pytest --fixtures [testpath]' for help on them.\n\n/Users/lx/Desktop/PythonP/pythonProject1/testcase/test_usermanager.py:9",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "testcase"
+  }, {
+    "name" : "suite",
+    "value" : "test_usermanager"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestUser1"
+  }, {
+    "name" : "host",
+    "value" : "lxdeMacBook-Pro-2.local"
+  }, {
+    "name" : "thread",
+    "value" : "11256-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcase.test_usermanager"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "ch_fixture",
+    "value" : "'高才华'"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6740a2a8e7e2c1ef.json",
+  "parameterValues" : [ "'高才华'" ]
+}

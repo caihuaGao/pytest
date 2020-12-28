@@ -1,0 +1,98 @@
+{
+  "uid" : "c39dc3a1c59c6926",
+  "name" : "test_02_user[李娜]",
+  "fullName" : "testcase.test_usermanager.TestUser1#test_02_user",
+  "historyId" : "abc8cc630e96a257c5831d1d4887f3de",
+  "time" : {
+    "start" : 1609140349526,
+    "stop" : 1609140349526,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "ch_fixture",
+    "time" : {
+      "start" : 1609140349525,
+      "stop" : 1609140349525,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "ch_fixture::0",
+    "time" : {
+      "start" : 1609140349526,
+      "stop" : 1609140349526,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "testcase"
+  }, {
+    "name" : "suite",
+    "value" : "test_usermanager"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestUser1"
+  }, {
+    "name" : "host",
+    "value" : "lxdeMacBook-Pro-2.local"
+  }, {
+    "name" : "thread",
+    "value" : "11302-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcase.test_usermanager"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "ch_fixture",
+    "value" : "'李娜'"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "eb89b44dbd33195b",
+      "status" : "broken",
+      "statusDetails" : "_pytest.fixtures.FixtureLookupError: ('requst', <SubRequest 'ch_fixture' for <Function test_02_user[\\u674e\\u5a1c]>>)",
+      "time" : {
+        "start" : 1609140311655,
+        "stop" : 1609140311655,
+        "duration" : 0
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c39dc3a1c59c6926.json",
+  "parameterValues" : [ "'李娜'" ]
+}

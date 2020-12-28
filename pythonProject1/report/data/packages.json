@@ -1,0 +1,432 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "testcase",
+    "children" : [ {
+      "name" : "test_usermanager",
+      "children" : [ {
+        "name" : "test_01_user[ch_fixture0]",
+        "uid" : "5b5f8968993814f6",
+        "parentUid" : "359e33fd27d48f95c5878826740a84ba",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1609136489729,
+          "stop" : 1609136489729,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "<NotSetType.token: 0>" ]
+      }, {
+        "name" : "test_02_user",
+        "uid" : "225318519a924c7",
+        "parentUid" : "359e33fd27d48f95c5878826740a84ba",
+        "status" : "passed",
+        "time" : {
+          "start" : 1609140141363,
+          "stop" : 1609140141363,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_02_user[高才华]",
+        "uid" : "7d2dda0d97810aeb",
+        "parentUid" : "359e33fd27d48f95c5878826740a84ba",
+        "status" : "passed",
+        "time" : {
+          "start" : 1609140349521,
+          "stop" : 1609140349521,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'高才华'" ]
+      }, {
+        "name" : "test_02_user[李娜]",
+        "uid" : "c39dc3a1c59c6926",
+        "parentUid" : "359e33fd27d48f95c5878826740a84ba",
+        "status" : "passed",
+        "time" : {
+          "start" : 1609140349526,
+          "stop" : 1609140349526,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'李娜'" ]
+      }, {
+        "name" : "test_user110",
+        "uid" : "10ca49d46b130796",
+        "parentUid" : "359e33fd27d48f95c5878826740a84ba",
+        "status" : "passed",
+        "time" : {
+          "start" : 1609140677271,
+          "stop" : 1609140677271,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_02_user[ch]",
+        "uid" : "243399ec76202f78",
+        "parentUid" : "359e33fd27d48f95c5878826740a84ba",
+        "status" : "passed",
+        "time" : {
+          "start" : 1609141378851,
+          "stop" : 1609141378851,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'高才华'" ]
+      }, {
+        "name" : "test_02_user[ln]",
+        "uid" : "5500f86da0cf8887",
+        "parentUid" : "359e33fd27d48f95c5878826740a84ba",
+        "status" : "passed",
+        "time" : {
+          "start" : 1609141378854,
+          "stop" : 1609141378854,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'李娜'" ]
+      }, {
+        "name" : "test_user110[ch]",
+        "uid" : "a2856b850b2ccccc",
+        "parentUid" : "359e33fd27d48f95c5878826740a84ba",
+        "status" : "passed",
+        "time" : {
+          "start" : 1609141665987,
+          "stop" : 1609141665987,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'高才华'" ]
+      }, {
+        "name" : "test_user110[ln]",
+        "uid" : "c4b923e85103916e",
+        "parentUid" : "359e33fd27d48f95c5878826740a84ba",
+        "status" : "passed",
+        "time" : {
+          "start" : 1609141665990,
+          "stop" : 1609141665990,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'李娜'" ]
+      }, {
+        "name" : "test_user10",
+        "uid" : "e031bb91c2c00cc5",
+        "parentUid" : "359e33fd27d48f95c5878826740a84ba",
+        "status" : "passed",
+        "time" : {
+          "start" : 1609141665993,
+          "stop" : 1609141665993,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_01_user",
+        "uid" : "afb9a2caffeb3b89",
+        "parentUid" : "359e33fd27d48f95c5878826740a84ba",
+        "status" : "passed",
+        "time" : {
+          "start" : 1609141665994,
+          "stop" : 1609141665994,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_02_user[ch-ch]",
+        "uid" : "8b27a381a8796cf1",
+        "parentUid" : "359e33fd27d48f95c5878826740a84ba",
+        "status" : "passed",
+        "time" : {
+          "start" : 1609141665997,
+          "stop" : 1609141665997,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'gg'", "'高才华'" ]
+      }, {
+        "name" : "test_02_user[ch-ln]",
+        "uid" : "e83b681764766b2d",
+        "parentUid" : "359e33fd27d48f95c5878826740a84ba",
+        "status" : "passed",
+        "time" : {
+          "start" : 1609141666003,
+          "stop" : 1609141666003,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'gg'", "'李娜'" ]
+      }, {
+        "name" : "test_02_user[ln-ch]",
+        "uid" : "d2a03759326af128",
+        "parentUid" : "359e33fd27d48f95c5878826740a84ba",
+        "status" : "passed",
+        "time" : {
+          "start" : 1609141666010,
+          "stop" : 1609141666011,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'mm'", "'高才华'" ]
+      }, {
+        "name" : "test_02_user[ln-ln]",
+        "uid" : "4ef92a0abd3bab11",
+        "parentUid" : "359e33fd27d48f95c5878826740a84ba",
+        "status" : "passed",
+        "time" : {
+          "start" : 1609141666018,
+          "stop" : 1609141666018,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'mm'", "'李娜'" ]
+      }, {
+        "name" : "test_03_user",
+        "uid" : "e9ee2e69040838ed",
+        "parentUid" : "359e33fd27d48f95c5878826740a84ba",
+        "status" : "passed",
+        "time" : {
+          "start" : 1609141666024,
+          "stop" : 1609141666025,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_04_user",
+        "uid" : "a5fd65186dc18eec",
+        "parentUid" : "359e33fd27d48f95c5878826740a84ba",
+        "status" : "passed",
+        "time" : {
+          "start" : 1609141666029,
+          "stop" : 1609141666029,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_05_user",
+        "uid" : "e373a1429f77ee3",
+        "parentUid" : "359e33fd27d48f95c5878826740a84ba",
+        "status" : "passed",
+        "time" : {
+          "start" : 1609141666033,
+          "stop" : 1609141666033,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_06_user",
+        "uid" : "cf0165d5974aaabd",
+        "parentUid" : "359e33fd27d48f95c5878826740a84ba",
+        "status" : "passed",
+        "time" : {
+          "start" : 1609141666036,
+          "stop" : 1609141666037,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "359e33fd27d48f95c5878826740a84ba"
+    }, {
+      "name" : "test_product",
+      "children" : [ {
+        "name" : "test_05_xingyao",
+        "uid" : "e3c90d0d58665c8c",
+        "parentUid" : "f868b3c8353a98f640d4063c9d328846",
+        "status" : "passed",
+        "time" : {
+          "start" : 1609141665959,
+          "stop" : 1609141665959,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_04_xingyao",
+        "uid" : "67ba448efa24e5ca",
+        "parentUid" : "f868b3c8353a98f640d4063c9d328846",
+        "status" : "passed",
+        "time" : {
+          "start" : 1609141665961,
+          "stop" : 1609141665961,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_03_xingyao",
+        "uid" : "ca0aead06ab4cb5b",
+        "parentUid" : "f868b3c8353a98f640d4063c9d328846",
+        "status" : "passed",
+        "time" : {
+          "start" : 1609141665963,
+          "stop" : 1609141665963,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_02_xingyao",
+        "uid" : "1beabff0e9067b42",
+        "parentUid" : "f868b3c8353a98f640d4063c9d328846",
+        "status" : "passed",
+        "time" : {
+          "start" : 1609141665965,
+          "stop" : 1609141665965,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_01_xingyao",
+        "uid" : "1dd52f83216f85de",
+        "parentUid" : "f868b3c8353a98f640d4063c9d328846",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1609141665977,
+          "stop" : 1609141665977,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "f868b3c8353a98f640d4063c9d328846"
+    }, {
+      "name" : "test_login",
+      "children" : [ {
+        "name" : "test_10_func",
+        "uid" : "90f3b9fc8895529",
+        "parentUid" : "cc0ea573530a3fefba2a1fc590840070",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1609141665973,
+          "stop" : 1609141665973,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_01_baili",
+        "uid" : "44fed116c749fd71",
+        "parentUid" : "cc0ea573530a3fefba2a1fc590840070",
+        "status" : "passed",
+        "time" : {
+          "start" : 1609141665976,
+          "stop" : 1609141665976,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "cc0ea573530a3fefba2a1fc590840070"
+    }, {
+      "name" : "test_student",
+      "children" : [ {
+        "name" : "test_01_student[ch]",
+        "uid" : "b44d95f55570bb5c",
+        "parentUid" : "bc7616947a4a285320cb3d9c849e587d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1609141665981,
+          "stop" : 1609141665981,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'高才华'" ]
+      }, {
+        "name" : "test_01_student[ln]",
+        "uid" : "fe8cc728c5903fb8",
+        "parentUid" : "bc7616947a4a285320cb3d9c849e587d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1609141665984,
+          "stop" : 1609141665984,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'李娜'" ]
+      } ],
+      "uid" : "bc7616947a4a285320cb3d9c849e587d"
+    } ],
+    "uid" : "559e15d0a5469c40d1629e36b5ae40ea"
+  }, {
+    "name" : "interface_testcase.test_interface",
+    "children" : [ {
+      "name" : "test_01_interface",
+      "uid" : "817c4810dfcd9d8b",
+      "parentUid" : "8f65c8460e67fbdd993760dfd5ede4a7",
+      "status" : "broken",
+      "time" : {
+        "start" : 1609141202481,
+        "stop" : 1609141202481,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "test_01_interface[ch]",
+      "uid" : "f2197d8ed4ee0691",
+      "parentUid" : "8f65c8460e67fbdd993760dfd5ede4a7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1609141665967,
+        "stop" : 1609141665968,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "'gg'" ]
+    }, {
+      "name" : "test_01_interface[ln]",
+      "uid" : "9b4a69053233471c",
+      "parentUid" : "8f65c8460e67fbdd993760dfd5ede4a7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1609141665971,
+        "stop" : 1609141665971,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "'mm'" ]
+    } ],
+    "uid" : "interface_testcase.test_interface"
+  } ]
+}

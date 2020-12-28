@@ -1,0 +1,193 @@
+{
+  "uid" : "90f3b9fc8895529",
+  "name" : "test_10_func",
+  "fullName" : "testcase.test_login#test_10_func",
+  "historyId" : "c2ae43ec9a4faba283710c77c7a32c08",
+  "time" : {
+    "start" : 1609141665973,
+    "stop" : 1609141665973,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "statusMessage" : "Skipped: unconditional skip",
+  "statusTrace" : "('/Users/lx/Desktop/PythonP/pythonProject1/testcase/test_login.py', 10, 'Skipped: unconditional skip')",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "@pytest.mark.skip(reeson='哈哈哈')"
+  }, {
+    "name" : "parentSuite",
+    "value" : "testcase"
+  }, {
+    "name" : "suite",
+    "value" : "test_login"
+  }, {
+    "name" : "host",
+    "value" : "lxdeMacBook-Pro-2.local"
+  }, {
+    "name" : "thread",
+    "value" : "12250-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcase.test_login"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "3c37712b1ce3e56b",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: unconditional skip",
+      "time" : {
+        "start" : 1609141614051,
+        "stop" : 1609141614051,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "bea7332b447355bd",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: unconditional skip",
+      "time" : {
+        "start" : 1609141583003,
+        "stop" : 1609141583003,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "9e50796be2033670",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: unconditional skip",
+      "time" : {
+        "start" : 1609141563070,
+        "stop" : 1609141563070,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "3ffc85614f8c4fcb",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: unconditional skip",
+      "time" : {
+        "start" : 1609141529217,
+        "stop" : 1609141529217,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "198b3764463bc0ad",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: unconditional skip",
+      "time" : {
+        "start" : 1609141495502,
+        "stop" : 1609141495502,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "267b56fae08140f6",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: unconditional skip",
+      "time" : {
+        "start" : 1609141378826,
+        "stop" : 1609141378826,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "1647a5b25c44fcc6",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: unconditional skip",
+      "time" : {
+        "start" : 1609141053509,
+        "stop" : 1609141053509,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "de1a8139c08f772e",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: unconditional skip",
+      "time" : {
+        "start" : 1609139197474,
+        "stop" : 1609139197474,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "a2ba00cee7708f1b",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: unconditional skip",
+      "time" : {
+        "start" : 1609139150916,
+        "stop" : 1609139150916,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "8851c203a2350f13",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: unconditional skip",
+      "time" : {
+        "start" : 1609139080469,
+        "stop" : 1609139080469,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "ffd2ddf8c50ab255",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: unconditional skip",
+      "time" : {
+        "start" : 1609138925140,
+        "stop" : 1609138925140,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "aef5d3220f3255a0",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: unconditional skip",
+      "time" : {
+        "start" : 1609137057243,
+        "stop" : 1609137057243,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "5cd2da1e713345d1",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: unconditional skip",
+      "time" : {
+        "start" : 1609136489722,
+        "stop" : 1609136489722,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "8d5eb2f758652b4a",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: unconditional skip",
+      "time" : {
+        "start" : 1609135275074,
+        "stop" : 1609135275074,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "d62e42095d6a1779",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: unconditional skip",
+      "time" : {
+        "start" : 1609135251417,
+        "stop" : 1609135251417,
+        "duration" : 0
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ "@pytest.mark.skip(reeson='哈哈哈')" ]
+  },
+  "source" : "90f3b9fc8895529.json",
+  "parameterValues" : [ ]
+}
